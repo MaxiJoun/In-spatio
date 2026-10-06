@@ -20,3 +20,6 @@ dist/
 build/
 *.so
 .env
+
+# Blender add-on working scenes
+blender_scenes/
